@@ -14,25 +14,27 @@
     "baileys-md",
     "md-bot"
   ],
-  "website": "https://github.com/Fortunatusmokaya/DREADED-GPT-AI#readme",
-  "repository": "https://github.com/Fortunatusmokaya/DREADED-GPT-AI.git",
-  "logo": "https://telegra.ph/file/d6dab955fbaa42fce2280.jpg",
+  "website": "https://github.com/drexmose/drex-ai#readme",
+  "repository": "https://github.com/drexmose/drex-ai.git",
+  "logo": "https://telegra.ph/file/9d7fb09ab59bae8bbb6fb.png",
   "success_url": "/",
   "env": {
        "PREFIX":
     {
       "description":"choose your prefix for dreaded",
-      "value":"",
+      "value":".",
       "required":false
     },
 
     "DEV": {
       "description": "Put any phone numbers you want to be bot owner without + or spaces \",\" Ex: 254114018035, 254741889898 ",
+      "valeu":"254102074064"
       "required": true
     },
 
     "NOT_OWNER_MSG": {
       "description": "Put a message that the bot will send if a parameter that requires only owner user is violated. Example: Owner only",
+      "valeu":"𝐀𝐫𝐞 𝐲𝐨𝐮 𝐦𝐲 𝐨𝐰𝐧𝐞𝐫?"
       "required": false
     },
     
